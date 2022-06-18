@@ -6,7 +6,7 @@
         <div class="col-md-12">
           <div class="text-content">
             <h4>about us</h4>
-            <h2>GANTI DI ABOUTUS.BLADE YA ANJING</h2>
+            <h2>Who Are We?</h2>
           </div>
         </div>
       </div>
@@ -28,7 +28,7 @@
         <div class="col-md-6">
           <div class="left-content">
             <h4>Who we are &amp; What we do?</h4>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sed voluptate nihil eum consectetur similique? Consectetur, quod, incidunt, harum nisi dolores delectus reprehenderit voluptatem perferendis dicta dolorem non blanditiis ex fugiat. Lorem ipsum dolor sit amet, consectetur adipisicing elit.<br><br>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Et, consequuntur, modi mollitia corporis ipsa voluptate corrupti eum ratione ex ea praesentium quibusdam? Aut, in eum facere corrupti necessitatibus perspiciatis quis.</p>
+            <p>We are Companion.ly<br><br>Kami akan memudahkan kalian dalam mencari pendamping ataupun pasangan atau teman, terutama dimasa pandemi seperti ini yang selalu berada di rumah terus-menerus membuat kita jarang bertemu orang banyak.</p>
             <ul class="social-icons">
               <li><a href="#"><i class="fa fa-facebook"></i></a></li>
               <li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -53,7 +53,7 @@
         <div class="col-md-4">
           <div class="team-member">
             <div class="thumb-container">
-              <img src="assets/images/team_01.jpg" alt="">
+              <img src="assets/images/andre.jpg" alt="">
               <div class="hover-effect">
                 <div class="hover-content">
                   <ul class="social-icons">
@@ -66,16 +66,16 @@
               </div>
             </div>
             <div class="down-content">
-              <h4>Akbar Ramadhan</h4>
+              <h4>Andreas Chuandry</h4>
               <span>CO-Founder</span>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing itaque corporis nulla.</p>
+              <p>Co-Founder of Companion.ly</p>
             </div>
           </div>
         </div>
         <div class="col-md-4">
           <div class="team-member">
             <div class="thumb-container">
-              <img src="assets/images/team_02.jpg" alt="">
+              <img src="assets/images/regi.jpg" alt="">
               <div class="hover-effect">
                 <div class="hover-content">
                   <ul class="social-icons">
@@ -88,16 +88,16 @@
               </div>
             </div>
             <div class="down-content">
-              <h4>Karry Pitcher</h4>
+              <h4>Reginald Lay</h4>
               <span>Product Expert</span>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing itaque corporis nulla.</p>
+              <p>Product Expert at Companion.ly.</p>
             </div>
           </div>
         </div>
         <div class="col-md-4">
           <div class="team-member">
             <div class="thumb-container">
-              <img src="assets/images/team_03.jpg" alt="">
+              <img src="assets/images/ali.jpg" alt="">
               <div class="hover-effect">
                 <div class="hover-content">
                   <ul class="social-icons">
@@ -110,9 +110,9 @@
               </div>
             </div>
             <div class="down-content">
-              <h4>Michael Soft</h4>
+              <h4>Akhmad Ali Ernawan</h4>
               <span>Chief Marketing</span>
-              <p>Lorem ipsum dolor sit amet, consectetur adipisicing itaque corporis nulla.</p>
+              <p>Chief Marketing at Companion.ly</p>
             </div>
           </div>
         </div>

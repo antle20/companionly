@@ -6,7 +6,7 @@
       <div class="col-md-12">
         <div class="text-content">
           <h4>contact us</h4>
-          <h2>GANTI DI CONTACTUS.BLADE YA ANJING</h2>
+          <h2>Please Contact Us!</h2>
         </div>
       </div>
     </div>

@@ -5,8 +5,8 @@
       <div class="row">
         <div class="col-md-12">
           <div class="text-content">
-            <h4>new arrivals</h4>
-            <h2>sixteen products</h2>
+            <h4>Order Now!</h4>
+            <h2>Companion.ly Talents</h2>
           </div>
         </div>
       </div>
@@ -17,8 +17,8 @@
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Latest Products</h2>
-              <a href="products.html">view all products <i class="fa fa-angle-right"></i></a>
+              <h2>Our Talent</h2>
+              <a href="/ourproduct">view all talents <i class="fa fa-angle-right"></i></a>
 
               <form action="{{url('search')}}" method="get" class="form-inline" style="float:right; padding: 10px;">
                 @csrf

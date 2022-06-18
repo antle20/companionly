@@ -7,20 +7,20 @@
       <div class="owl-banner owl-carousel">
         <div class="banner-item-01">
           <div class="text-content">
-            <h4>Best Offer</h4>
-            <h2>New Arrivals On Sale</h2>
+            <h4>Best Companion Ever</h4>
+            <h2>Right Here!</h2>
           </div>
         </div>
         <div class="banner-item-02">
           <div class="text-content">
-            <h4>Flash Deals</h4>
-            <h2>Get your best products</h2>
+            <h4>Choose The One</h4>
+            <h2>You Want!</h2>
           </div>
         </div>
         <div class="banner-item-03">
           <div class="text-content">
-            <h4>Last Minute</h4>
-            <h2>Grab last minute deals</h2>
+            <h4>Get Your Date</h4>
+            <h2>Right Now!</h2>
           </div>
         </div>
       </div>
@@ -33,8 +33,8 @@
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>Latest Products</h2>
-              <a href="products.html">view all products <i class="fa fa-angle-right"></i></a>
+              <h2>Our Talent</h2>
+              <a href="/ourproduct">view all talents <i class="fa fa-angle-right"></i></a>
 
               <form action="{{url('search')}}" method="get" class="form-inline" style="float:right; padding: 10px;">
                 @csrf
@@ -93,19 +93,18 @@
         <div class="row">
           <div class="col-md-12">
             <div class="section-heading">
-              <h2>About Sixteen Clothing</h2>
+              <h2>About Companion.ly</h2>
             </div>
           </div>
           <div class="col-md-6">
             <div class="left-content">
-              <h4>Looking for the best products?</h4>
-              <p><a rel="nofollow" href="https://templatemo.com/tm-546-sixteen-clothing" target="_parent">This template</a> is free to use for your business websites. However, you have no permission to redistribute the downloadable ZIP file on any template collection website. <a rel="nofollow" href="https://templatemo.com/contact">Contact us</a> for more info.</p>
+              <h4>Looking for companion to do fun activites?</h4>
+              <p>You can find the best companion here at Companion.ly</p>
               <ul class="featured-list">
-                <li><a href="#">Lorem ipsum dolor sit amet</a></li>
-                <li><a href="#">Consectetur an adipisicing elit</a></li>
-                <li><a href="#">It aquecorporis nulla aspernatur</a></li>
-                <li><a href="#">Corporis, omnis doloremque</a></li>
-                <li><a href="#">Non cum id reprehenderit</a></li>
+                <li>RELIABLE</li>
+                <li>PERFORMANCE</li>
+                <li>DURABILITY</li>
+                <li>AESTHETICS</li>
               </ul>
             </div>
           </div>
@@ -126,11 +125,11 @@
             <div class="inner-content">
               <div class="row">
                 <div class="col-md-8">
-                  <h4>Creative &amp; Unique <em>Sixteen</em> Products</h4>
-                  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Itaque corporis amet elite author nulla.</p>
+                  <h4>Atracttive &amp; Fun <em>Companion.ly</em> Talents</h4>
+                  <p>Wanna see our talents?</p>
                 </div>
                 <div class="col-md-4">
-                  <a href="#" class="filled-button">Purchase Now</a>
+                  <a href="/ourproduct" class="filled-button">Order Now</a>
                 </div>
               </div>
             </div>
