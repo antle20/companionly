@@ -73,10 +73,10 @@
               <input style="color:black" type="text" name="des" placeholder="Give a description" required="">
           </div>
 
-          <div style="padding:15px;">
+          <!-- <div style="padding:15px;">
               <label>Quantity</label>
               <input style="color:black" type="text" name="quantity" placeholder="Product Quantity" required="">
-          </div>
+          </div> -->
 
           <div style="padding:15px;">
               <input type="file" name="file">

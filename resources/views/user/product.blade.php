@@ -37,14 +37,14 @@
               <a href="#"><img height="250" width="150" src="/productimage/{{$product->image}}" alt=""></a>
               <div class="down-content">
                 <a href="#"><h4>{{$product->title}}</h4></a>
-                <h6>${{$product->price}}</h6>
+                <h6>Rp.{{$product->price}}</h6>
                 <p>{{$product->description}}</p>
 
                 <form action="{{url('addcart',$product->id)}}" method="POST">
                   @csrf
                   <input type="number" value="1" min="1" class="form-control" style="width:75px" name="quantity">
                   <br>
-                  <input style="color:black" class="btn btn-success" type="submit" value="Add Cart">
+                  <input style="color:black" class="btn btn-success" type="submit" value="Order Now">
 
                 </form>
 

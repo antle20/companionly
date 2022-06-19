@@ -70,10 +70,10 @@
               <input style="color:black" type="text" name="des" value="{{$data->description}}" required="">
           </div>
 
-          <div style="padding:15px;">
+          <!-- <div style="padding:15px;">
               <label>Quantity</label>
               <input style="color:black" type="text" name="quantity" value="{{$data->quantity}}" required="">
-          </div>
+          </div> -->
 
           <div style="padding:15px;">
               <label>Product Image</label>

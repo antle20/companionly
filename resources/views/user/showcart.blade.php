@@ -11,7 +11,7 @@
 
     <link rel="stylesheet" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p" crossorigin="anonymous"/>
 
-    <title>Sixteen Clothing HTML Template</title>
+    <title>Companion.ly</title>
 
     <!-- Bootstrap core CSS -->
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -58,13 +58,13 @@ https://templatemo.com/tm-546-sixteen-clothing
                 </a>
               </li> 
               <li class="nav-item">
-                <a class="nav-link" href="products.html">Our Products</a>
+                <a class="nav-link" href="/ourproduct">Our Talents</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.html">About Us</a>
+                <a class="nav-link" href="/about">About Us</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.html">Contact Us</a>
+                <a class="nav-link" href="/contact">Contact Us</a>
               </li>
 
               <li class="nav-item">
