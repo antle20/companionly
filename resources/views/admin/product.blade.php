@@ -59,7 +59,7 @@
           @csrf
 
           <div style="padding:15px;">
-              <label>Product Title</label>
+              <label>Talent Name</label>
               <input style="color:black" type="text" name="title" placeholder="Give a product title" required="">
           </div>
 

@@ -33,7 +33,6 @@
             <tr style="background-color: grey;">
                 <td style="padding:20px;">Title</td>
                 <td style="padding:20px;">Description</td>
-                <td style="padding:20px;">Quantity</td>
                 <td style="padding:20px;">Price</td>
                 <td style="padding:20px;">Image</td>
                 <td style="padding:20px;">Update</td>
@@ -46,7 +45,6 @@
             <tr align="center" style ="background-color:black;">
                 <td>{{$product->title}}</td>
                 <td>{{$product->description}}</td>
-                <td>{{$product->quantity}}</td>
                 <td>{{$product->price}}</td>
                 <td>
                     <img height="100px" width="100px" src="/productimage/{{$product->image}}" alt="">
